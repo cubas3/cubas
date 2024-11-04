@@ -4,5 +4,13 @@ body{
 }
 
 header {
-    border-bottom: solid 2px rgb(red
+    border-bottom: solid 2px red;
+    padding-bottom: 20px;
+    font-size: 32px;
+    color: dodgerblue (42, 122, 228);
+}
+
+section{
+    background-color: darkgray (117, 122, 112);
+
 }
