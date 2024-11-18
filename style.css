@@ -22,7 +22,7 @@ img{
     height: 200px;
 }
 
-.categoria-videos{
+.categoria-video{
     display: flex;
     overflow-x: auto;
     padding-right: 10px;
